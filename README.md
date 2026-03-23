@@ -1,4 +1,4 @@
-# 🤖 Chatbot Project (React + Vite)
+# Chatbot Project (React + Vite)
 
 A modern, interactive chatbot web application built with **React** and **Vite**.  
 This project demonstrates real‑time user-to-chatbot communication with a clean, conversation‑focused UI.
