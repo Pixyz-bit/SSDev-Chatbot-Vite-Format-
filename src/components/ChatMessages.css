@@ -1,0 +1,8 @@
+  .chat-messages-container {
+    flex-grow: 1;
+    margin-top: 20px;
+    overflow: scroll;
+    /*Forces scrollbars to appear even if content fits (i.e., always scrollable box).*/
+    scrollbar-width: none;
+    /*Firefox-specific property to hide scrollbars (content still scrolls).*/
+  }
